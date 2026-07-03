@@ -19,7 +19,7 @@ $currentTime = date("H:i:s");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Dashboard - Timetable Management </title>
+    <title>Admin Dashboard - Timetable Management System </title>
     <style>
         * {
             margin: 0;
